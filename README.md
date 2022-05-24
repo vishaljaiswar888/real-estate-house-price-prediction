@@ -6,7 +6,7 @@
 ## Models used
 - Linear Regression - (82.55% r2_score)
 
-- Lasso - (81.46% r2_score)
+- Lasso - (81.31% r2_score)
 
 - Ridge - (82.46% r2_score)
 
