@@ -8,7 +8,7 @@
 
 - Lasso - (81.46% r2_score)
 
-- Ridge - (81.46% r2_score)
+- Ridge - (82.46% r2_score)
 
 - As per the above r2_scores, Linear Regression and Ridge where performing a bit better than Lasso. That's why for build the web framework I chose Ridge ML Model with 82.46% r2_score.
 
