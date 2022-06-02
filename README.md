@@ -3,6 +3,9 @@
 
 - Interface is made using python’s flask web framework.
 
+## Project Link
+ - Link: https://bangaluru-real-estate-price.herokuapp.com/
+
 ## Models used
 - Linear Regression - (82.55% r2_score)
 
