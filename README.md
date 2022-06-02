@@ -5,7 +5,7 @@
 
 
 ## Project Link
-https://free-movie-recommendation.herokuapp.com/
+ - Link: https://bangaluru-real-estate-price.herokuapp.com/
 
 
 ## Models used
